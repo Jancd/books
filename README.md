@@ -1,5 +1,5 @@
 # books
-IT books in Chinese.
+IT books.
 
 ---
 ## AI
